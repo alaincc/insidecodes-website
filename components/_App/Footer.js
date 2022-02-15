@@ -50,7 +50,7 @@ const Footer = () => {
                                 <ul className="address">
                                     <li className="location">
                                         <i className="bx bxs-location-plus"></i>
-                                        6331 SW 158 th court Miami 33193 FL
+                                        
                                     </li>
                                     <li>
                                         <i className="bx bxs-envelope"></i>
